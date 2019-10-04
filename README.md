@@ -2,7 +2,7 @@
 
 This is a site made with Github pages.
 
-[Link](url) and ![Image](https://octodex.github.com/images/baracktocat.jpg)
+![Image](https://octodex.github.com/images/baracktocat.jpg)
 
 ### Support or Contact
 
